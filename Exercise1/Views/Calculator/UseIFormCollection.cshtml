@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewData["Title"] = "UseIFormCollection";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3 class="mb-4">Use IFormCollection</h3>
+
+<form method="post" asp-controller="Calculator" asp-action="UseIFormCollection">
+    <div class="form-group mb-3">
+        <label for="number1">Số thứ nhất</label>
+        <input type="number" class="form-control" id="number1" name="number1" required>
+    </div>
+
+    <div class="form-group mb-3">
+        <label for="number2">Số thứ hai</label>
+        <input type="number" class="form-control" id="number2" name="number2" required>
+    </div>
+
+    <div class="form-group mb-3">
+        <label for="operation">Phép toán</label>
+        <select class="form-control" id="operation" name="operation">
+            <option value="+">Cộng (+)</option>
+            <option value="-">Trừ (-)</option>
+            <option value="*">Nhân (*)</option>
+            <option value="/">Chia (/)</option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Tính</button>
+</form>
+
+@if (TempData["Result"] != null)
+{
+    <div class="alert alert-success mt-3">
+        Kết quả: @TempData["Result"]
+    </div>
+}

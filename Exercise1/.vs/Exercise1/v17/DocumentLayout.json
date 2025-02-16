@@ -7,6 +7,22 @@
       "RelativeMoniker": "D:0:0:{ECF5AC21-D763-49B6-99BE-70322C10C958}|Exercise1.csproj|solutionrelative:controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{ECF5AC21-D763-49B6-99BE-70322C10C958}|Exercise1.csproj|c:\\users\\vinhnq\\desktop\\dotnetcore_practice\\exercise1\\views\\calculator\\usemodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECF5AC21-D763-49B6-99BE-70322C10C958}|Exercise1.csproj|solutionrelative:views\\calculator\\usemodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF5AC21-D763-49B6-99BE-70322C10C958}|Exercise1.csproj|c:\\users\\vinhnq\\desktop\\dotnetcore_practice\\exercise1\\views\\calculator\\userequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECF5AC21-D763-49B6-99BE-70322C10C958}|Exercise1.csproj|solutionrelative:views\\calculator\\userequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF5AC21-D763-49B6-99BE-70322C10C958}|Exercise1.csproj|c:\\users\\vinhnq\\desktop\\dotnetcore_practice\\exercise1\\models\\calculatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF5AC21-D763-49B6-99BE-70322C10C958}|Exercise1.csproj|solutionrelative:models\\calculatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF5AC21-D763-49B6-99BE-70322C10C958}|Exercise1.csproj|c:\\users\\vinhnq\\desktop\\dotnetcore_practice\\exercise1\\views\\calculator\\useiformcollection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECF5AC21-D763-49B6-99BE-70322C10C958}|Exercise1.csproj|solutionrelative:views\\calculator\\useiformcollection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ECF5AC21-D763-49B6-99BE-70322C10C958}|Exercise1.csproj|c:\\users\\vinhnq\\desktop\\dotnetcore_practice\\exercise1\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ECF5AC21-D763-49B6-99BE-70322C10C958}|Exercise1.csproj|solutionrelative:views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -26,33 +42,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\dotnetcore_practice\\Exercise1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\dotnetcore_practice\\Exercise1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "UseModel.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\dotnetcore_practice\\Exercise1\\Views\\Calculator\\UseModel.cshtml",
+              "RelativeDocumentMoniker": "Views\\Calculator\\UseModel.cshtml",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\dotnetcore_practice\\Exercise1\\Views\\Calculator\\UseModel.cshtml",
+              "RelativeToolTip": "Views\\Calculator\\UseModel.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T03:59:35.443Z",
+              "WhenOpened": "2025-02-16T04:59:52.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\dotnetcore_practice\\Exercise1\\Views\\Calculator\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Calculator\\Index.cshtml",
-              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\dotnetcore_practice\\Exercise1\\Views\\Calculator\\Index.cshtml",
-              "RelativeToolTip": "Views\\Calculator\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T03:50:34.457Z",
+              "DocumentIndex": 3,
+              "Title": "CalculateModel.cs",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\dotnetcore_practice\\Exercise1\\Models\\CalculateModel.cs",
+              "RelativeDocumentMoniker": "Models\\CalculateModel.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\dotnetcore_practice\\Exercise1\\Models\\CalculateModel.cs",
+              "RelativeToolTip": "Models\\CalculateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T04:57:39.682Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UseIFormCollection.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\dotnetcore_practice\\Exercise1\\Views\\Calculator\\UseIFormCollection.cshtml",
+              "RelativeDocumentMoniker": "Views\\Calculator\\UseIFormCollection.cshtml",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\dotnetcore_practice\\Exercise1\\Views\\Calculator\\UseIFormCollection.cshtml",
+              "RelativeToolTip": "Views\\Calculator\\UseIFormCollection.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T04:54:08.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UseRequest.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\dotnetcore_practice\\Exercise1\\Views\\Calculator\\UseRequest.cshtml",
+              "RelativeDocumentMoniker": "Views\\Calculator\\UseRequest.cshtml",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\dotnetcore_practice\\Exercise1\\Views\\Calculator\\UseRequest.cshtml",
+              "RelativeToolTip": "Views\\Calculator\\UseRequest.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T04:45:38.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
@@ -62,14 +108,27 @@
               "RelativeDocumentMoniker": "Controllers\\CalculatorController.cs",
               "ToolTip": "C:\\Users\\vinhnq\\Desktop\\dotnetcore_practice\\Exercise1\\Controllers\\CalculatorController.cs",
               "RelativeToolTip": "Controllers\\CalculatorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAIIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T03:49:19.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\dotnetcore_practice\\Exercise1\\Views\\Calculator\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Calculator\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\dotnetcore_practice\\Exercise1\\Views\\Calculator\\Index.cshtml",
+              "RelativeToolTip": "Views\\Calculator\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T03:50:34.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\dotnetcore_practice\\Exercise1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -77,12 +136,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T03:46:53.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2025-02-16T03:46:53.935Z"
             },
             {
               "$type": "Bookmark",
@@ -99,6 +153,18 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\dotnetcore_practice\\Exercise1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\dotnetcore_practice\\Exercise1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T03:59:35.443Z"
             },
             {
               "$type": "Bookmark",

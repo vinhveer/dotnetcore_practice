@@ -229,3 +229,4 @@ C:\Users\vinhnq\Desktop\dotnetcore_practice\Exercise1\bin\Debug\net8.0\runtimes\
 C:\Users\vinhnq\Desktop\dotnetcore_practice\Exercise1\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\vinhnq\Desktop\dotnetcore_practice\Exercise1\obj\Debug\net8.0\Exercise1.csproj.AssemblyReference.cache
 C:\Users\vinhnq\Desktop\dotnetcore_practice\Exercise1\obj\Debug\net8.0\Exercise1.csproj.Up2Date
+C:\Users\vinhnq\Desktop\dotnetcore_practice\Exercise1\obj\Debug\net8.0\Exercise1.sourcelink.json
