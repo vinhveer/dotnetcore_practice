@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\vinhnq\\Desktop\\dotnetcore_practice\\Exercise1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ECF5AC21-D763-49B6-99BE-70322C10C958}|Exercise1.csproj|c:\\users\\vinhnq\\desktop\\dotnetcore_practice\\exercise1\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF5AC21-D763-49B6-99BE-70322C10C958}|Exercise1.csproj|solutionrelative:controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ECF5AC21-D763-49B6-99BE-70322C10C958}|Exercise1.csproj|c:\\users\\vinhnq\\desktop\\dotnetcore_practice\\exercise1\\views\\calculator\\usemodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ECF5AC21-D763-49B6-99BE-70322C10C958}|Exercise1.csproj|solutionrelative:views\\calculator\\usemodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECF5AC21-D763-49B6-99BE-70322C10C958}|Exercise1.csproj|c:\\users\\vinhnq\\desktop\\dotnetcore_practice\\exercise1\\views\\calculator\\userequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ECF5AC21-D763-49B6-99BE-70322C10C958}|Exercise1.csproj|solutionrelative:views\\calculator\\userequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF5AC21-D763-49B6-99BE-70322C10C958}|Exercise1.csproj|c:\\users\\vinhnq\\desktop\\dotnetcore_practice\\exercise1\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF5AC21-D763-49B6-99BE-70322C10C958}|Exercise1.csproj|solutionrelative:controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECF5AC21-D763-49B6-99BE-70322C10C958}|Exercise1.csproj|c:\\users\\vinhnq\\desktop\\dotnetcore_practice\\exercise1\\models\\calculatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UseModel.cshtml",
               "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\dotnetcore_practice\\Exercise1\\Views\\Calculator\\UseModel.cshtml",
               "RelativeDocumentMoniker": "Views\\Calculator\\UseModel.cshtml",
@@ -85,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UseRequest.cshtml",
               "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\dotnetcore_practice\\Exercise1\\Views\\Calculator\\UseRequest.cshtml",
               "RelativeDocumentMoniker": "Views\\Calculator\\UseRequest.cshtml",
@@ -94,6 +94,23 @@
               "ViewState": "AgIAAAcAAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-16T04:45:38.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\dotnetcore_practice\\Exercise1\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\dotnetcore_practice\\Exercise1\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAIIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T03:49:19.048Z",
               "EditorCaption": ""
             },
             {
@@ -107,23 +124,6 @@
               "ViewState": "AgIAAAoAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-16T03:50:34.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CalculatorController.cs",
-              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\dotnetcore_practice\\Exercise1\\Controllers\\CalculatorController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CalculatorController.cs",
-              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\dotnetcore_practice\\Exercise1\\Controllers\\CalculatorController.cs",
-              "RelativeToolTip": "Controllers\\CalculatorController.cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAAAIkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T03:49:19.048Z",
               "EditorCaption": ""
             },
             {
